@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá, eu sou o Athma 👋
 
-<!--
-**Athmabelfort/Athmabelfort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Back-end no [TCE-ES], construindo sistemas internos em .NET C#
+que apoiam auditoria e controle de contas públicas.
 
-Here are some ideas to get you started:
+- 🔭 Trabalhando com: **C#/.NET 8** e **Golang**
+- 🏛️ Domínio de negócio: contabilidade pública, auditoria, finanças
+- 🌱 Aprendendo: Aprendendo ASPNET CORE(aplicações empresariais e .NET FRAMEWORK, integração com IA)
+- 💬 Me pergunte sobre: .NET, Go, SQL Server, APIs REST
+- 📫 Me encontre: [www.linkedin.com/in/athma-baptista-belfort-b3701434b](link)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ Stack
+Linguagens: C# (.NET 8) · Go · SQL
+Dados: SQL Server · PostgreSQL · Redis
+Ferramentas: Git · Docker · GitHub Actions · Swagger
